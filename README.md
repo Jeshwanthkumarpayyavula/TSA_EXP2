@@ -1,5 +1,11 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:
+Date: 18-03-2025
+
+```
+Name: Jeshwanth Kumar P
+Register Number : 212223240114
+```
+
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
